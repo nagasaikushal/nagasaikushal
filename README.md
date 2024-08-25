@@ -22,6 +22,3 @@ Here are some of the projects I'm currently working on:
 
 - **MERN Application for Tourist & Hospitality Management System**: I'm excited about this project as it involves utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack to develop a comprehensive system tailored for the tourist and hospitality industry. 
 
-- **COVID-19 Dashboard using PyCharm**: Given the significance of real-time data during the pandemic, I'm developing a COVID-19 dashboard using PyCharm. This project involves gathering data from reliable sources, visualizing it effectively, and providing insights to help individuals, organizations, and policymakers make informed decisions during these challenging times.
-
-These projects serve as both learning experiences and stepping stones towards achieving my career goals. They ignite my passion for technology, challenge me to push my boundaries, and equip me with the expertise needed to excel in the dynamic field of software development.
