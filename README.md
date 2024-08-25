@@ -2,9 +2,9 @@
 
 Hello there! 👋 I'm Kushal,currently pursuing a Bachelor's degree in Computer Science Engineering (CSE) in KL University.
 
-🎓 **Education:** Currently in my second year of pursuing a Bachelor's degree in Computer Science Engineering (CSE).
+🎓 **Education:** Currently in my third year of pursuing a Bachelor's degree in Computer Science Engineering (CSE).
 
-🚀 **Role:** I proudly serve as a peer mentor and lead at KL Focus Acad & Skill Dev Wing, a vibrant community dedicated to fostering academic and skill development within the CSE department.
+🚀 **Role:** I proudly serve as a peer mentor and lead at KL Focus Acad & Skill Development Wing, a vibrant community dedicated to fostering academic and skill development within the CSE department.
 
 💡 **Passion:** Technology, programming, and finding innovative solutions to real-world challenges are what drive me every day.
 
